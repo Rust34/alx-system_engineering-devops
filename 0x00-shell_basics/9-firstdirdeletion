@@ -1,2 +1,2 @@
 #!/bin/bashrm
-rm -r /tmp/9-firstdirdeletion
+rm -R /tmp/9-firstdirdeletion
