@@ -12,3 +12,4 @@ Look in the mirror
 Directories
 permissions
 change group
+Owner and group
