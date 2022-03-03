@@ -7,3 +7,4 @@ prints all groups current user is in
 Multiple permissions
 Everybody!
 James Bond
+John Doe
