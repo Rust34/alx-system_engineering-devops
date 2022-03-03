@@ -6,3 +6,4 @@ prints all groups current user is in
  Execute
 Multiple permissions
 Everybody!
+James Bond
