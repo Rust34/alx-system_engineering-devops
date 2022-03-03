@@ -3,3 +3,4 @@ who am i
 prints all groups current user is in
  New owner
  Empty!
+ Execute
