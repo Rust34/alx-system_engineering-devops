@@ -5,3 +5,4 @@ prints all groups current user is in
  Empty!
  Execute
 Multiple permissions
+Everybody!
