@@ -18,3 +18,4 @@ What's next?
 I hate bins
 Letters only please
 AZ
+del C and c
