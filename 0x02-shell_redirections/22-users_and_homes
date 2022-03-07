@@ -1,2 +1,2 @@
 #!/bin/bash
-getent etc/passwd | sort
+cat etc/passwd | sort
