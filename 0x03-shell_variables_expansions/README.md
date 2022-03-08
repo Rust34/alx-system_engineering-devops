@@ -12,3 +12,4 @@ power
 binary
 combinations
 floats
+decimals
