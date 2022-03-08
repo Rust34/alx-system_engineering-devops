@@ -6,3 +6,4 @@ global variable
 local variables
 local variable
 global variables
+true knowledge
