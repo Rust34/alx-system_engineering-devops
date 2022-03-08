@@ -10,3 +10,4 @@ true knowledge
 divide
 power
 binary
+combinations
