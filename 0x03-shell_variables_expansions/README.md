@@ -13,3 +13,4 @@ binary
 combinations
 floats
 decimals
+encryption
