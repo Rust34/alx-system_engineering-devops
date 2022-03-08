@@ -11,3 +11,4 @@ divide
 power
 binary
 combinations
+floats
