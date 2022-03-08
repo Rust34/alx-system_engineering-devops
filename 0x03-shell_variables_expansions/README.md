@@ -9,3 +9,4 @@ global variables
 true knowledge
 divide
 power
+binary
