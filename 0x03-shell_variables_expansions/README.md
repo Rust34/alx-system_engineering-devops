@@ -8,3 +8,4 @@ local variable
 global variables
 true knowledge
 divide
+power
